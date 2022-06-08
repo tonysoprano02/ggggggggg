@@ -24,6 +24,9 @@ jobs:
       - name: cordova
         run: npm install -g cordova
 
+      - name: angularCli
+        run: npm install -g @angular/cli
+        
       - name: Ionic
         run: npm install -g @ionic/cli
       
