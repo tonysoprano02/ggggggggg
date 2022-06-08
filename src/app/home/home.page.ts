@@ -5,7 +5,7 @@ import { Storage } from '@ionic/storage';
 @Component({
   selector: 'app-home',
   templateUrl: './home.page.html',
-  styleUrls: ['./src/app/home/home.page.scss'],
+  styleUrls: ['ggggggggg/src/app/home/home.page.scss'],
 })
 export class HomePage implements OnInit {
 
